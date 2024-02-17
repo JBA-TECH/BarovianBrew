@@ -14,3 +14,13 @@ img{
 #b{
     color:blue;
 }
+
+/*This will change the color due to the specifity and inheritance of the html*/
+
+.a-class {
+    color:blue
+}
+
+#an-id{
+    color:black
+}
