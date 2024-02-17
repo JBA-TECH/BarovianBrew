@@ -1,1 +1,16 @@
 *{color: purple;}
+
+*{background-color: rgb(215, 198, 198);}
+
+img{
+    height: 200px;
+    width: 400px;
+}
+
+#a{
+    color:black
+}
+
+#b{
+    color:blue;
+}
