@@ -8,11 +8,13 @@ img{
 }
 
 #a{
-    color:green;
+    color:whitesmoke;
+    background-color: rgb(71, 40, 71);
 }
 
 #b{
-    color:blue;
+    color:whitesmoke;
+    background-color:rgb(71, 40, 71);
 }
 
 /*This will change the color due to the specifity and inheritance of the html*/
@@ -22,5 +24,9 @@ img{
 }
 
 #an-id{
-    color:black
+    color:red
+}
+
+h1{
+    color: rgb(34, 33, 33);
 }
